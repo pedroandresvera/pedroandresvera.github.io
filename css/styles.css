@@ -1,0 +1,28 @@
+/* styles.css */
+
+body {
+    margin: 0; /* Elimina el margen por defecto del body */
+    padding-top: 0; /* Ajusta el padding para que el navbar esté pegado al borde superior */
+}
+
+.navbar {
+    margin-bottom: 0; /* Elimina el margen inferior del navbar para que no haya espacio adicional */
+}
+
+.menu-box {
+    width: 90%;
+    margin: 10px auto; /* Centra los recuadros horizontalmente y agrega margen vertical */
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1.text-center {
+    margin: 20px 0;
+}
+
+h3.text-center {
+    margin-top: 0;
+}
